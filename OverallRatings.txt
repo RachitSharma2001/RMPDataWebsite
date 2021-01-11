@@ -1,0 +1,1608 @@
+UC Berkeley Tagalog
+5.0
+UC Berkeley Computer Science
+3.862918660287082
+UC Berkeley Mathematics
+3.306511024643319
+UC Berkeley English
+3.913769633507852
+UC Berkeley Education
+4.397321428571429
+UC Berkeley Legal Studies
+3.8383435582822085
+UC Berkeley Public Health
+3.8449612403100772
+UC Berkeley Near Eastern Studies
+4.041455696202531
+UC Berkeley Interdisciplinary Studies
+3.6306010928961747
+UC Berkeley Rhetoric
+3.8948655256723725
+UC Berkeley Social Welfare
+3.9238095238095236
+UC Berkeley Landscape Architecture & Regional Planning
+3.926666666666667
+UC Berkeley Geography
+3.953333333333333
+UC Berkeley Biology
+3.6455910666153257
+UC Berkeley Economics
+3.2492215568862264
+UC Berkeley History
+3.9604516502605684
+UC Berkeley Portuguese
+4.8
+UC Berkeley Architecture
+3.687412587412587
+UC Berkeley Statistics
+3.333356070941337
+UC Berkeley Industrial Engineering
+3.7026490066225173
+UC Berkeley Anthropology
+3.404821280133002
+UC Berkeley Political Science
+3.679292452830188
+UC Berkeley Women's Studies
+3.765172413793104
+UC Berkeley Mechanical Engineering
+3.5309392265193367
+UC Berkeley Languages
+4.25527950310559
+UC Berkeley Physical Ed
+4.759249329758713
+UC Berkeley Nuclear Engineering
+3.92
+UC Berkeley Music
+4.110981308411215
+UC Berkeley Business Administration
+3.5179941002949864
+UC Berkeley French
+4.222822822822823
+UC Berkeley Art History
+4.249220489977729
+UC Berkeley Earth Science
+3.798666666666667
+UC Berkeley German
+4.562804878048781
+UC Berkeley Environ. Sci. Policy & Mgmt.
+3.676190476190476
+UC Berkeley Electrical Engineering
+3.485358255451714
+UC Berkeley Urban Design & Development
+3.7672
+UC Berkeley Comparative Literature
+4.168686868686868
+UC Berkeley Environmental Science
+3.8608030592734233
+UC Berkeley Physics
+3.6641996557659215
+UC Berkeley Civil Engineering
+3.758091286307053
+UC Berkeley Information Systems
+3.5374999999999996
+UC Berkeley Psychology
+3.784305255579552
+UC Berkeley Nutrition
+3.5494791666666674
+UC Berkeley East Asian Studies
+3.933333333333334
+UC Berkeley Sociology
+3.6591377091377093
+UC Berkeley Earth  Planetary Sciences
+3.707692307692308
+UC Berkeley Not Specified
+2.9073170731707316
+UC Berkeley Public Policy
+3.9008695652173917
+UC Berkeley Engineering
+3.5590909090909086
+UC Berkeley Chemistry
+3.706853582554517
+UC Berkeley Ethnic Studies
+3.8456168831168833
+UC Berkeley Chinese
+4.111464968152866
+UC Berkeley Art, Media, & Design
+3.6399999999999997
+UC Berkeley International Studies
+3.990252707581228
+UC Berkeley Spanish
+4.218483412322275
+UC Berkeley Asian Studies
+3.8213930348258702
+UC Berkeley Theatre & Dance
+3.951851851851851
+UC Berkeley Art
+3.8435483870967735
+UC Berkeley Chemical Engineering
+3.7399999999999998
+UC Berkeley Film
+3.8799999999999994
+UC Berkeley Writing
+4.112759643916914
+UC Berkeley Slavic Languages amp Literatures
+5.0
+UC Berkeley Peace & Conflict Studies
+3.3209790209790206
+UC Berkeley MolecularCellular Biology
+2.568253968253968
+UC Berkeley Linguistics
+3.685031847133758
+UC Berkeley Italian
+4.546060606060606
+UC Berkeley Philosophy
+3.833385826771654
+UC Berkeley Astronomy
+4.291460055096419
+UC Berkeley Agriculture
+3.9200000000000004
+UC Berkeley Environ. Sci. Policy amp Mgmt.
+4.615384615384615
+UC Berkeley Mass Communications
+3.4012396694214875
+UC Berkeley Physical Education
+4.165116279069768
+UC Berkeley Slavic Languages & Literatures
+4.2595238095238095
+UC Berkeley African-American Studies
+3.8207920792079206
+UC Berkeley Classics
+3.941018766756032
+UC Berkeley Environ. Sci. Policy  Mgmt.
+3.84
+UC Berkeley Law
+4.104918032786886
+UC Berkeley City & Regional Planning
+3.978571428571428
+UC Berkeley Molecular/Cellular Biology
+4.1
+UC Berkeley Cognitive Science
+4.044791666666668
+UC Berkeley Chicano Studies
+4.176470588235294
+UC Berkeley Urban Studies
+3.1
+UC Berkeley Journalism
+3.3333333333333335
+UC Berkeley Plant Biology
+3.00625
+UC Berkeley Materials Science
+4.097297297297297
+UC Berkeley American Studies
+4.008219178082191
+UC Berkeley Bioengineering
+2.8587412587412584
+UC Berkeley Scandinavian
+4.489719626168224
+UC Berkeley Aerospace Studies
+4.333333333333333
+UC Berkeley Liberal Arts
+2.2
+UC Berkeley Earth & Planetary Sciences
+4.563157894736842
+UC Berkeley Earth amp Planetary Sciences
+3.7084507042253523
+UC Berkeley Religious Studies
+4.190123456790123
+UC Berkeley Military Affairs
+4.7
+UC Berkeley Theatre  Dance
+4.07
+UC Berkeley Student Success Center
+1.0
+UC Berkeley Landscape Architecture  Regional Planning
+4.4
+UC Berkeley City  Regional Planning
+3.8200000000000003
+UC Berkeley Japanese
+4.44040404040404
+UC Berkeley Arts amp Humanities
+4.8
+UC Berkeley Women
+1.9
+UC Berkeley Data Science
+3.6399999999999997
+UC Berkeley Peace  Conflict Studies
+4.140000000000001
+UC Berkeley Latin American Studies
+3.4529411764705884
+UC Berkeley Art Media amp Design
+4.922972972972973
+UC Berkeley Literature
+4.7
+UC Berkeley Naval Science
+4.0
+UC Berkeley Theatre amp Dance
+5.0
+UC Berkeley Arts & Humanities
+5.0
+UC Berkeley Optometry
+4.666666666666667
+UC Davis Neurobiology & Behavior
+3.711864406779661
+UC Davis English
+3.9365175052167873
+UC Davis Electrical  Comp. Engineering
+4.09076923076923
+UC Davis Foreign Languages
+4.571428571428571
+UC Davis Statistics
+3.1822778073443327
+UC Davis Asian American Studies
+4.4366666666666665
+UC Davis Education
+3.86217008797654
+UC Davis Biology
+3.4797532964695868
+UC Davis Design
+3.21492281303602
+UC Davis University Writing Program
+3.986827661909989
+UC Davis Ethnic Studies
+3.9230627306273056
+UC Davis Health Science
+3.688888888888889
+UC Davis Learning Center
+4.863829787234042
+UC Davis Spanish
+4.231105398457584
+UC Davis Agriculture
+3.2439803439803434
+UC Davis Physical Ed
+4.721938775510204
+UC Davis Science
+3.6235971647962204
+UC Davis Philosophy
+3.8271396396396398
+UC Davis Political Science
+3.8669609665427513
+UC Davis African-American Studies
+3.730081300813008
+UC Davis Physics
+3.2878487848784874
+UC Davis Agricultural amp Resource Economics
+2.8608695652173917
+UC Davis History
+3.97164609053498
+UC Davis TA
+3.879245283018868
+UC Davis Mathematics
+3.2746943620178053
+UC Davis Art
+3.442696629213483
+UC Davis Computer Science
+3.278468536770281
+UC Davis Biological Sciences
+3.60700976042591
+UC Davis Electrical Engineering
+3.635616438356164
+UC Davis Plant  Soil Science
+3.5535211267605638
+UC Davis Languages
+3.9995029821073556
+UC Davis MolecularCellular Biology
+4.2124999999999995
+UC Davis Medicine
+3.3194444444444446
+UC Davis Classics
+4.143584521384928
+UC Davis Engineering
+3.3970292285577384
+UC Davis Environmental Toxicology
+3.955813953488372
+UC Davis Psychology
+3.9470004957858196
+UC Davis Chemistry
+3.339118730518562
+UC Davis Human Development
+3.3469230769230767
+UC Davis Sociology
+3.5375398633257413
+UC Davis Native American Studies
+3.778709677419355
+UC Davis Plant & Soil Science
+3.8300000000000005
+UC Davis Economics
+3.3951890034364243
+UC Davis Anthropology
+3.4374178123132118
+UC Davis French
+3.927403846153846
+UC Davis Art History
+3.8387931034482756
+UC Davis Linguistics
+3.6930693069306932
+UC Davis Nutrition
+4.21368909512761
+UC Davis Microbiology
+3.1076782449725773
+UC Davis Management
+3.9161290322580644
+UC Davis American Studies
+3.7208333333333337
+UC Davis Chicano Studies
+3.8701923076923084
+UC Davis Humanities
+3.8471042471042476
+UC Davis Environmental Science
+3.8303680981595094
+UC Davis Writing
+3.9062745098039215
+UC Davis Japanese
+4.157021276595744
+UC Davis Mechanical Engineering
+3.3764227642276428
+UC Davis Entomology
+4.125742574257425
+UC Davis Theatre & Dance
+4.0323076923076915
+UC Davis Native Studies
+2.8521472392638034
+UC Davis Biomedical Engineering
+2.769230769230769
+UC Davis Russian
+5.0
+UC Davis Film
+3.010160427807487
+UC Davis French & Italian
+4.177192982456139
+UC Davis Asian Studies
+3.568822170900693
+UC Davis Music
+3.952773109243697
+UC Davis Fine Arts
+3.4712609970674486
+UC Davis Food Science & Technology
+4.2171779141104295
+UC Davis Geology
+4.184987593052109
+UC Davis Ecology & Evolutionary Biology
+3.4876132930513597
+UC Davis Communication
+3.633
+UC Davis Women's Studies
+3.450549450549451
+UC Davis Agricultural & Resource Economics
+3.217857142857143
+UC Davis Advisor
+3.8899999999999997
+UC Davis Environmental Science & Policy
+3.6363636363636362
+UC Davis Agricultural Economics
+3.0081632653061225
+UC Davis Landscape Architecture amp Regional Planning
+5.0
+UC Davis Social Science
+3.434808259587021
+UC Davis Animal Science
+4.088481141692151
+UC Davis Neurobiology  Behavior
+3.6901639344262294
+UC Davis Comparative Literature
+4.215140845070422
+UC Davis Textiles & Clothing
+2.6806451612903226
+UC Davis Cultural Studies
+4.33
+UC Davis Law
+3.7538461538461543
+UC Davis Theater
+3.4593333333333334
+UC Davis Civil Engineering
+3.712500000000001
+UC Davis Wildlife
+3.8864583333333336
+UC Davis Landscape Architecture & Regional Planning
+3.4353846153846153
+UC Davis Counseling
+3.7
+UC Davis Judaic Studies
+4.18
+UC Davis Human Ecology
+4.161194029850746
+UC Davis Veterinary Sciences
+4.09
+UC Davis Agricultural  Resource Economics
+2.34
+UC Davis Theatre  Dance
+4.949999999999999
+UC Davis Viticulture & Enology
+4.636363636363637
+UC Davis Not Specified
+3.9739999999999998
+UC Davis Cell Biology  Neuroanatomy
+3.6666666666666665
+UC Davis Italian
+4.534343434343434
+UC Davis Plant Pathology
+4.187704918032788
+UC Davis Materials Science
+3.939622641509434
+UC Davis Art  Art History
+3.517142857142857
+UC Davis East Asian Studies
+4.389090909090909
+UC Davis Physical Education
+4.470491803278688
+UC Davis Physical Sciences
+3.7557894736842106
+UC Davis Military Science
+4.75
+UC Davis Religious Studies
+4.031057268722467
+UC Davis Ecology amp Evolutionary Biology
+3.9
+UC Davis Theology
+3.2124999999999995
+UC Davis Women
+3.2
+UC Davis Agricultural Engineering
+3.933333333333333
+UC Davis German
+4.15375
+UC Davis Pomology
+3.0
+UC Davis Workload
+1.4
+UC Davis Science & Technology Studies
+4.725
+UC Davis Biotechnology
+4.714285714285714
+UC Davis Biochemistry
+3.620833333333333
+UC Davis Literature
+3.2173469387755103
+UC Davis Technoculture Studies
+3.5736842105263156
+UC Davis Food Science
+3.77807486631016
+UC Davis Chemical Engineering
+3.44393063583815
+UC Davis Business
+2.820689655172414
+UC Davis Greek
+4.8
+UC Davis Ecology  Evolutionary Biology
+3.4857142857142853
+UC Davis Plant amp Soil Science
+4.1
+UC Davis Student Services
+5.0
+UC Davis Food Science  Technology
+2.9356321839080457
+UC Davis Electrical & Comp. Engineering
+3.597938144329897
+UC Davis Art & Art History
+3.4496183206106874
+UC Davis Neuropsychiatry
+3.9
+UC Davis Accounting
+4.0
+UC Davis Neurobiology amp Behavior
+3.9799999999999995
+UC Davis Geography
+2.588235294117647
+UC Davis International Studies
+3.128846153846154
+UC Davis Landscape Architecture  Regional Planning
+5.0
+UC Davis Chinese
+4.045806451612902
+UC Davis Terrestrial Biogeochemistry
+4.3
+UC Davis Viticulture  Enology
+3.9
+UC Davis Managerial Science
+2.8
+UC Davis Biomedical
+3.625490196078431
+UC Davis Molecular/Cellular Biology
+4.365030674846626
+UC Davis Pathology
+3.292307692307692
+UC Davis Cell Biology & Neuroanatomy
+5.0
+UC Davis Latin
+4.52
+UC Davis Finance
+4.3
+UC Davis Theatre amp Dance
+4.6
+UC Davis Archaeology
+3.0
+UC Davis Food Science amp Technology
+5.0
+UC Davis Electrical amp Comp. Engineering
+4.7375
+UC Irvine Physics
+3.113716012084592
+UC Irvine Comparative Literature
+3.947282608695652
+UC Irvine Civil Engineering
+3.346320346320346
+UC Irvine Psychology
+3.8452301719356625
+UC Irvine Management
+3.6858231707317066
+UC Irvine Mathematics
+3.496253175275191
+UC Irvine English
+3.8748603351955317
+UC Irvine Not Specified
+2.503921568627451
+UC Irvine Humanities
+3.8795353982300895
+UC Irvine Anthropology
+4.008761329305137
+UC Irvine Environmental Engineering
+3.8
+UC Irvine Writing
+3.988001371271857
+UC Irvine Biology
+3.541820873427091
+UC Irvine Informatics
+3.822083333333333
+UC Irvine Economics
+2.9810810810810815
+UC Irvine Electrical Engineering
+4.161756373937677
+UC Irvine Film
+3.548076923076923
+UC Irvine Biological Sciences
+3.3430004559963526
+UC Irvine Engineering
+3.2139986604152706
+UC Irvine Music
+3.670818505338078
+UC Irvine Chemistry
+3.5502549936251584
+UC Irvine Computer Science
+3.056691877671818
+UC Irvine Social Science
+3.257399577167019
+UC Irvine Political Science
+3.9796718322698257
+UC Irvine Earth Science
+3.872277227722772
+UC Irvine Public Health
+3.5292358803986708
+UC Irvine History
+3.720790216368768
+UC Irvine Spanish
+4.040540540540541
+UC Irvine Sociology
+3.873704414587333
+UC Irvine Art
+3.377235772357724
+UC Irvine Studio Art
+2.9650000000000003
+UC Irvine Dance
+3.8469026548672565
+UC Irvine University Studies
+4.44
+UC Irvine Philosophy
+3.5315638450502145
+UC Irvine Fine Arts
+3.969327731092437
+UC Irvine Latin American Studies
+3.6171428571428574
+UC Irvine Classics
+4.10280112044818
+UC Irvine Statistics
+3.335315315315315
+UC Irvine Biomedical
+2.940697674418604
+UC Irvine Nursing
+1.6916666666666667
+UC Irvine Languages
+4.223541247484909
+UC Irvine Academic Services
+4.36551724137931
+UC Irvine Education
+3.944089012517385
+UC Irvine Business
+4.022826086956521
+UC Irvine Religion
+3.2645161290322577
+UC Irvine Asian Studies
+3.8140939597315433
+UC Irvine Social Ecology Administration
+4.040441176470588
+UC Irvine Theater
+4.1169811320754715
+UC Irvine Logic & Philosophy
+4.022857142857142
+UC Irvine Physics & Astronomy
+3.276703296703297
+UC Irvine Dramatic Arts
+3.6020408163265305
+UC Irvine Art History
+4.05910780669145
+UC Irvine French
+4.1186915887850475
+UC Irvine Pharmaceutical Sciences
+4.12716049382716
+UC Irvine Cognitive Science
+3.777272727272728
+UC Irvine Literature
+3.319548872180451
+UC Irvine Criminology Law  Society
+3.9680272108843533
+UC Irvine East Asian Lang. & Literature
+2.9244897959183676
+UC Irvine Physics  Astronomy
+3.164935064935065
+UC Irvine Environmental Science
+3.3916666666666666
+UC Irvine Criminal Justice
+3.712139737991266
+UC Irvine German
+4.221739130434783
+UC Irvine African-American Studies
+3.6354838709677426
+UC Irvine Psychology & Social Behavior
+3.8664879356568367
+UC Irvine Planning, Policy & Design
+3.8
+UC Irvine Mechanical Engineering
+3.412831858407079
+UC Irvine Psychology  Social Behavior
+4.039673913043478
+UC Irvine Biochemistry
+4.188990825688074
+UC Irvine Microbiology
+4.026315789473683
+UC Irvine Information Science
+3.929166666666667
+UC Irvine Materials Engineering
+3.8944099378881996
+UC Irvine Composition
+4.71875
+UC Irvine Policy Planning & Development
+3.892857142857143
+UC Irvine English As A Second Language
+3.831168831168831
+UC Irvine International Studies
+4.302147239263804
+UC Irvine Criminology Law amp Society
+4.158620689655172
+UC Irvine Ecology & Evolutionary Biology
+3.3127659574468082
+UC Irvine Neurobiology & Behavior
+4.547413793103448
+UC Irvine Chemical Engineering
+3.328985507246377
+UC Irvine Law
+4.521052631578947
+UC Irvine Chinese
+3.6399999999999997
+UC Irvine Computer Information Systems
+3.0
+UC Irvine Accounting
+3.236752136752137
+UC Irvine East Asian Lang. amp Literature
+5.0
+UC Irvine Korean
+3.8777777777777778
+UC Irvine Linguistics
+3.541764705882353
+UC Irvine Journalism
+4.296590909090909
+UC Irvine Creative Writing
+4.88
+UC Irvine Criminology, Law & Society
+3.9096491228070174
+UC Irvine Global Studies
+4.5
+UC Irvine Women's Studies
+3.921195652173913
+UC Irvine Finance
+3.6176470588235294
+UC Irvine Environmental Studies
+4.478
+UC Irvine Italian
+5.0
+UC Irvine Science
+3.046001974333662
+UC Irvine Health Science
+3.521518987341772
+UC Irvine Ethnic Studies
+3.6442148760330575
+UC Irvine Japanese
+3.8317073170731706
+UC Irvine Neurobiology  Behavior
+4.5
+UC Irvine Marketing
+4.8
+UC Irvine Logic  Philosophy
+4.935714285714286
+UC Irvine Urban Planning
+2.9133333333333336
+UC Irvine Criminology
+3.6260355029585796
+UC Irvine Physics amp Astronomy
+2.411764705882353
+UC Irvine Ecology  Evolutionary Biology
+4.8
+UC Irvine Reading
+4.7
+UC Irvine Digital Arts
+4.0
+UC Irvine Graphic Arts
+2.0
+UC Irvine Geology
+3.6000000000000005
+UC Irvine Health Sciences
+4.8
+UC Irvine Neurobiology amp Behavior
+2.9
+UC Irvine Aerospace Studies
+2.35
+UC Irvine Foreign Languages
+3.8800000000000003
+UC Irvine Planning Policy  Design
+3.1666666666666665
+UC Irvine Architecture
+4.1
+UC Irvine Neuropsychiatry
+3.4
+UC Irvine Russian
+3.94
+UC Irvine Physical Ed
+2.7
+UC Irvine Psychiatry & Human Behavior
+4.406666666666666
+UC Irvine Physical Education
+4.819999999999999
+UC Irvine General Studies
+4.5
+UC Irvine Geography
+2.9
+UCLA Medicine
+4.530434782608695
+UCLA Law
+3.137864077669902
+UCLA Psychology
+3.535087719298246
+UCLA Anthropology
+3.514814814814815
+UCLA Film
+3.848148148148148
+UCLA Geography
+4.013725490196078
+UCLA Information Science
+3.1374999999999997
+UCLA Acad
+3.35
+UCLA Chemistry
+3.2505882352941176
+UCLA Ecology  Evolutionary Biology
+4.0
+UCLA Health Science
+4.466666666666667
+UCLA Economics
+4.384971098265896
+UCLA Education
+4.1475
+UCLA English
+3.9048710601719203
+UCLA Philosophy
+3.8812030075187973
+UCLA Computer Science
+4.17027027027027
+UCLA Accounting
+3.601769911504425
+UCLA Mathematics
+3.477878787878789
+UCLA Sociology
+3.446625766871166
+UCLA History
+4.016708860759495
+UCLA Islamic Studies
+4.8
+UCLA Music
+3.6828947368421048
+UCLA Spanish & Portuguese
+3.6142857142857143
+UCLA Political Science
+3.866009852216749
+UCLA Information Studies
+4.9
+UCLA Art History
+3.4528571428571433
+UCLA Linguistics
+3.771052631578948
+UCLA Theater
+3.7571428571428576
+UCLA Women's Studies
+4.2592592592592595
+UCLA Ethnic Studies
+3.8285714285714287
+UCLA Science
+3.7299999999999995
+UCLA Nursing
+3.8421052631578947
+UCLA Asian Studies
+3.3625
+UCLA Social Work
+4.222222222222222
+UCLA Physics
+4.314606741573034
+UCLA Architecture
+3.8636363636363638
+UCLA Classics
+4.2625
+UCLA Social Science
+3.784375
+UCLA Biology
+3.8463157894736852
+UCLA Earth & Space Science
+3.341666666666667
+UCLA Engineering
+3.414814814814815
+UCLA Languages
+4.212820512820513
+UCLA Design
+3.353846153846154
+UCLA Film & Television
+4.75
+UCLA Communication
+3.9
+UCLA German
+3.8
+UCLA Public Affairs
+3.21875
+UCLA Not Specified
+3.409090909090909
+UCLA Mechanical Engineering
+4.7384615384615385
+UCLA Physics amp Astronomy
+5.0
+UCLA Management
+3.322222222222222
+UCLA Statistics
+4.513953488372093
+UCLA Writing
+4.5625
+UCLA Communication Studies
+3.611111111111111
+UCLA World Arts & Cultures
+2.92
+UCLA Humanities
+4.45
+UCLA MolecularCellularDev Biology
+5.0
+UCLA Life Science
+4.184057971014494
+UCLA Business
+4.265217391304348
+UCLA Criminal Justice
+4.0
+UCLA Chicano Studies
+4.20625
+UCLA Geology
+4.257142857142857
+UCLA Comparative Literature
+4.166666666666667
+UCLA Dental
+5.0
+UCLA Fine Arts
+3.8111111111111113
+UCLA Ecology & Evolutionary Biology
+4.5200000000000005
+UCLA Biochem. & Molecular Biology
+4.5
+UCLA Teacher Education
+3.0
+UCLA Business Administration
+4.5
+UCLA Spanish  Portuguese
+5.0
+UCLA Aerospace Studies
+4.6
+UCLA Physics & Astronomy
+5.0
+UCLA International Studies
+3.9
+UCLA Literature
+5.0
+UCLA Urban Planning
+4.142857142857143
+UCLA Business Management
+5.0
+UCLA African-American Studies
+4.7
+UCLA Global Business Management
+5.0
+UC Riverside Writing
+4.172222222222222
+UC Riverside Electrical Engineering
+3.914383561643836
+UC Riverside Chemical Engineering
+3.7556701030927835
+UC Riverside Psychology
+3.816982214572575
+UC Riverside Computer Science
+3.507770270270271
+UC Riverside Economics
+3.3356476079346558
+UC Riverside Business
+3.2295227524972256
+UC Riverside English
+3.887295869356387
+UC Riverside Music
+3.9979381443298965
+UC Riverside Entomology
+3.2324218749999996
+UC Riverside Biology
+3.614644107351226
+UC Riverside History
+3.796182266009852
+UC Riverside Mathematics
+3.476986379114644
+UC Riverside Mechanical Engineering
+3.5423076923076926
+UC Riverside Sociology
+3.452391304347826
+UC Riverside Chemistry
+3.3930627654554035
+UC Riverside Dance
+4.22992125984252
+UC Riverside Physics & Astronomy
+4.466666666666667
+UC Riverside Spanish
+4.187142857142857
+UC Riverside Religious Studies
+3.9338509316770196
+UC Riverside Languages
+4.042487046632124
+UC Riverside Ethnic Studies
+3.231741573033707
+UC Riverside Botany
+4.2142857142857135
+UC Riverside Geosciences
+3.33046875
+UC Riverside Political Science
+3.761941448382127
+UC Riverside Environmental Science
+3.6936781609195406
+UC Riverside Foreign Languages
+4.437931034482758
+UC Riverside Physics
+3.393412526997839
+UC Riverside Media amp Cultural Studies
+3.7000000000000006
+UC Riverside Cell Biology & Neuroscience
+4.051162790697675
+UC Riverside Creative Writing
+4.2319047619047625
+UC Riverside Bioengineering
+3.608108108108108
+UC Riverside Statistics
+4.033333333333334
+UC Riverside Microbiology
+2.956140350877193
+UC Riverside Women's Studies
+3.4460317460317462
+UC Riverside Education
+3.9962962962962965
+UC Riverside Anthropology
+3.5212789415656007
+UC Riverside Asian Studies
+4.119047619047619
+UC Riverside Public Policy
+4.56551724137931
+UC Riverside Portuguese
+5.0
+UC Riverside Art History
+3.686283185840708
+UC Riverside Latin American Studies
+3.4200000000000004
+UC Riverside Biochemistry
+4.095016611295681
+UC Riverside Humanities
+4.094117647058824
+UC Riverside Theater
+4.20738255033557
+UC Riverside Management
+3.5396739130434782
+UC Riverside Physics  Astronomy
+3.7857142857142856
+UC Riverside Engineering
+3.569014084507042
+UC Riverside Film
+3.2721311475409833
+UC Riverside Philosophy
+3.479122340425531
+UC Riverside Comparative Literature
+3.494594594594594
+UC Riverside Art
+3.7864864864864867
+UC Riverside Fine Arts
+3.3619047619047615
+UC Riverside Cell Biology  Neuroscience
+4.208333333333333
+UC Riverside Media & Cultural Studies
+3.6750000000000003
+UC Riverside Classics
+3.735483870967742
+UC Riverside Chinese
+4.569230769230769
+UC Riverside Social Science
+3.1859375
+UC Riverside Business Administration
+2.8257425742574256
+UC Riverside Linguistics
+2.3
+UC Riverside History of Art
+2.7529411764705887
+UC Riverside Law
+3.28
+UC Riverside Italian
+3.9555555555555553
+UC Riverside Science
+3.605944798301486
+UC Riverside Literature
+4.127777777777777
+UC Riverside Geology
+3.6661971830985918
+UC Riverside Plant & Soil Science
+2.1312499999999996
+UC Riverside Earth Science
+3.8999999999999995
+UC Riverside Environmental Engineering
+4.75
+UC Riverside Neuroscience
+2.2625
+UC Riverside Hispanic Studies
+4.326315789473685
+UC Riverside Japanese
+3.3275862068965516
+UC Riverside Gender & Sexualty Studies
+4.484375
+UC Riverside Cell Biology amp Neuroscience
+2.4749999999999996
+UC Riverside German
+4.8304347826086955
+UC Riverside Korean
+2.8666666666666667
+UC Riverside Genetics
+3.7
+UC Riverside Religion
+3.5548387096774197
+UC Riverside Global Studies
+3.7249999999999996
+UC Riverside Recreation
+5.0
+UC Riverside Not Specified
+4.285714285714286
+UC Riverside Accounting
+2.6584313725490194
+UC Riverside Foreign Languages & Literature
+3.2454545454545456
+UC Riverside Computer Engineering
+2.82
+UC Riverside Marketing
+2.4517241379310346
+UC Riverside Plant  Soil Science
+3.0
+UC Riverside Finance
+2.1
+UC Riverside Cell Biology amp Neuroanatomy
+5.0
+UC Riverside Cell Biology & Neuroanatomy
+3.5764705882352943
+UC Riverside Media  Cultural Studies
+4.555555555555555
+UC Riverside French
+4.0
+UC Riverside Physical Sciences
+2.8
+UC Santa Barbara English
+3.841944932630346
+UC Santa Barbara Electrical & Comp. Engineering
+4.083529411764706
+UC Santa Barbara Global Studies
+3.4975757575757576
+UC Santa Barbara Philosophy
+3.901489361702126
+UC Santa Barbara Sociology
+3.736904761904762
+UC Santa Barbara History
+3.680247376311843
+UC Santa Barbara Chemistry
+3.5522031053294167
+UC Santa Barbara Computer Science
+3.3958149779735693
+UC Santa Barbara Psychology
+3.8853440951571794
+UC Santa Barbara Geography
+3.5341032608695646
+UC Santa Barbara Biology
+3.596213657876943
+UC Santa Barbara Environmental Science amp Mgmt.
+3.8333333333333335
+UC Santa Barbara Art
+3.2031249999999996
+UC Santa Barbara Women's Studies
+3.4401477832512315
+UC Santa Barbara Mathematics
+3.291206242091945
+UC Santa Barbara Religion
+3.891762767710049
+UC Santa Barbara Communication
+3.771590909090909
+UC Santa Barbara Exercise & Sport Studies
+3.7448275862068963
+UC Santa Barbara Fine Arts
+3.220816326530612
+UC Santa Barbara Political Science
+3.7076222038111024
+UC Santa Barbara Writing
+4.276099881093936
+UC Santa Barbara Ethnic Studies
+3.552432432432432
+UC Santa Barbara Environmental Science & Mgmt.
+3.9079999999999995
+UC Santa Barbara Spanish
+4.092746113989636
+UC Santa Barbara Geology
+3.98279411764706
+UC Santa Barbara Physics
+3.2389985895627635
+UC Santa Barbara Global & International Studies
+3.5333333333333337
+UC Santa Barbara Black Studies
+3.679831932773109
+UC Santa Barbara Art History
+3.3806818181818183
+UC Santa Barbara Asian American Studies
+3.971794871794871
+UC Santa Barbara Religious Studies
+3.7555873925501433
+UC Santa Barbara Film
+3.703040000000001
+UC Santa Barbara Theater
+3.704225352112676
+UC Santa Barbara Economics
+3.1875101378751007
+UC Santa Barbara Social Science
+3.7380733944954128
+UC Santa Barbara Science
+3.3932727272727283
+UC Santa Barbara Anthropology
+3.432710978342046
+UC Santa Barbara Mechanical Engineering
+3.916574585635358
+UC Santa Barbara Chicano Studies
+3.5869426751592357
+UC Santa Barbara Education
+3.9655660377358495
+UC Santa Barbara Humanities
+4.196428571428571
+UC Santa Barbara Spanish  Portuguese
+4.831428571428571
+UC Santa Barbara Feminist Studies
+4.02089552238806
+UC Santa Barbara Literature
+3.327624309392265
+UC Santa Barbara Music
+4.1159052453468705
+UC Santa Barbara Classics
+3.926793721973094
+UC Santa Barbara Linguistics
+3.8376
+UC Santa Barbara Engineering
+3.5934848484848487
+UC Santa Barbara Statistics
+3.05654813529922
+UC Santa Barbara Global  International Studies
+2.0
+UC Santa Barbara Accounting
+3.5712
+UC Santa Barbara Germanic & Russian Studies
+4.0192090395480236
+UC Santa Barbara French
+3.9211764705882355
+UC Santa Barbara Languages
+3.8780276816608996
+UC Santa Barbara Business
+4.6000000000000005
+UC Santa Barbara French  Italian
+4.444444444444445
+UC Santa Barbara French & Italian
+4.567741935483871
+UC Santa Barbara Spanish & Portuguese
+4.203370786516854
+UC Santa Barbara Chemical Engineering
+3.818421052631579
+UC Santa Barbara Electrical  Comp. Engineering
+4.612820512820513
+UC Santa Barbara Theology
+3.6714285714285717
+UC Santa Barbara Health Science
+3.7722222222222226
+UC Santa Barbara East Asian Languages & Cultures
+4.375
+UC Santa Barbara Advisor
+3.0
+UC Santa Barbara Biochemistry
+2.335
+UC Santa Barbara Physical Ed
+3.98515625
+UC Santa Barbara Law
+3.437010676156584
+UC Santa Barbara Physical Education
+3.958064516129032
+UC Santa Barbara Not Specified
+4.089090909090909
+UC Santa Barbara Germanic amp Russian Studies
+4.1875
+UC Santa Barbara Environmental Science
+4.336607142857143
+UC Santa Barbara Environmental Science  Mgmt.
+4.198611111111111
+UC Santa Barbara Graphic Arts
+4.0
+UC Santa Barbara Exercise  Sport Studies
+4.105172413793103
+UC Santa Barbara Information Science
+4.426829268292683
+UC Santa Barbara African-American Studies
+3.7428571428571433
+UC Santa Barbara Environmental Studies
+4.6
+UC Santa Barbara Medicine
+3.7000000000000006
+UC Santa Barbara Life Science
+3.7
+UC Santa Barbara Exercise amp Sport Studies
+5.0
+UC Santa Barbara Electrical amp Comp. Engineering
+2.6666666666666665
+UC Santa Barbara International Studies
+3.211764705882353
+UC Santa Barbara Germanic  Russian Studies
+5.0
+UC Santa Barbara Architecture
+2.976470588235294
+UC Santa Barbara Media Arts
+3.0
+UC Santa Cruz American Studies
+3.6103896103896105
+UC Santa Cruz Political Science
+3.860896130346232
+UC Santa Cruz English
+4.2910204081632655
+UC Santa Cruz Electrical Engineering
+3.247008547008547
+UC Santa Cruz Writing
+4.023188405797102
+UC Santa Cruz Languages
+4.062476547842401
+UC Santa Cruz Computer Science
+3.4633204633204633
+UC Santa Cruz Biology
+3.5697183098591543
+UC Santa Cruz Finance
+3.9
+UC Santa Cruz Economics
+3.2416051660516607
+UC Santa Cruz Art History
+3.7516025641025643
+UC Santa Cruz Education
+3.8098159509202447
+UC Santa Cruz Physics
+3.3808938547486034
+UC Santa Cruz Mathematics
+3.44939152328997
+UC Santa Cruz Management
+2.627272727272727
+UC Santa Cruz Chemistry
+3.6844430217669655
+UC Santa Cruz Psychology
+3.906996501749126
+UC Santa Cruz Literature
+3.565011820330969
+UC Santa Cruz Women's Studies
+3.8114014251781474
+UC Santa Cruz Computer Information Systems
+3.25
+UC Santa Cruz Core Curriculum
+4.2554502369668255
+UC Santa Cruz Fine Arts
+3.663636363636364
+UC Santa Cruz Film & Digital Media
+3.2752688172043007
+UC Santa Cruz Ecology amp Evolutionary Biology
+4.3
+UC Santa Cruz Computational Media
+4.866666666666666
+UC Santa Cruz Anthropology
+3.5224789915966386
+UC Santa Cruz Politics
+4.279310344827586
+UC Santa Cruz Earth & Planetary Sciences
+3.730990415335463
+UC Santa Cruz Accounting
+3.4294117647058826
+UC Santa Cruz Film
+3.4004901960784317
+UC Santa Cruz Sociology
+3.5630309988518936
+UC Santa Cruz History
+4.07502102607233
+UC Santa Cruz Latin American Studies
+3.6322727272727278
+UC Santa Cruz Art & Visual Culture
+3.4087591240875907
+UC Santa Cruz Humanities
+3.940677966101694
+UC Santa Cruz Computer Engineering
+3.0002012072434607
+UC Santa Cruz Music
+3.660755813953489
+UC Santa Cruz Theater
+3.9046808510638304
+UC Santa Cruz Film  Digital Media
+2.7903846153846152
+UC Santa Cruz Chemistry & Biochemistry
+4.078571428571428
+UC Santa Cruz Legal Studies
+3.6872093023255816
+UC Santa Cruz Philosophy
+3.782363977485929
+UC Santa Cruz Chemistry  Biochemistry
+2.6714285714285713
+UC Santa Cruz Social Science
+4.144776119402985
+UC Santa Cruz Spanish
+4.152
+UC Santa Cruz History of Consciousness
+4.08235294117647
+UC Santa Cruz Environmental Studies
+3.680154639175258
+UC Santa Cruz Astronomy
+3.9919580419580427
+UC Santa Cruz Computational Science
+2.551612903225806
+UC Santa Cruz Linguistics
+4.030909090909091
+UC Santa Cruz Physical Education
+4.387499999999999
+UC Santa Cruz Bioinformatics & Molecular Bio
+3.772222222222222
+UC Santa Cruz Bioinformatics  Molecular Bio
+2.741176470588235
+UC Santa Cruz Physical Ed
+4.355445544554455
+UC Santa Cruz Earth  Planetary Sciences
+4.238095238095238
+UC Santa Cruz Geography
+5.0
+UC Santa Cruz Classics
+3.6952380952380954
+UC Santa Cruz Art
+3.0183486238532105
+UC Santa Cruz Ocean Sciences
+4.392307692307693
+UC Santa Cruz Environmental Science
+3.416265060240964
+UC Santa Cruz Applied Mathematics  Statistics
+2.8187499999999996
+UC Santa Cruz Biochemistry
+5.0
+UC Santa Cruz Science
+3.094516971279373
+UC Santa Cruz Applied Mathematics & Statistics
+3.5639705882352946
+UC Santa Cruz Community Education
+3.3048543689320384
+UC Santa Cruz French
+4.048571428571429
+UC Santa Cruz Architecture
+3.321739130434783
+UC Santa Cruz Law
+4.017213114754098
+UC Santa Cruz Digital Arts & New Media
+4.444444444444445
+UC Santa Cruz Ethnic Studies
+3.0466666666666664
+UC Santa Cruz Information Science
+4.2
+UC Santa Cruz Ecology & Evolutionary Biology
+3.627659574468085
+UC Santa Cruz Art  Visual Culture
+4.5
+UC Santa Cruz Earth amp Planetary Sciences
+2.9799999999999995
+UC Santa Cruz Aquatic Toxicology
+3.7000000000000006
+UC Santa Cruz Engineering
+2.5765957446808514
+UC Santa Cruz Ecology  Evolutionary Biology
+4.714285714285714
+UC Santa Cruz Not Specified
+4.166666666666667
+UC Santa Cruz Agriculture
+5.0
+UC Santa Cruz Marine Sciences
+3.5123711340206185
+UC Santa Cruz Journalism
+4.225
+UC Santa Cruz Graphic Arts
+5.0
+UC Santa Cruz Digital Media Production
+2.4999999999999996
+UC Santa Cruz Film amp Digital Media
+3.5
+UC Santa Cruz African-American Studies
+3.0
+UC Santa Cruz Information Systems
+2.9250000000000003
+UC Santa Cruz Community Studies
+4.220000000000001
+UC Santa Cruz Japanese
+4.346341463414634
+UC Santa Cruz Oceanography
+4.1
+UC Santa Cruz Digital Arts  New Media
+4.0
+UC Santa Cruz Feminist Studies
+4.5
+UC Santa Cruz Italian
+4.1
+UC Santa Cruz Business
+4.2
+UC Santa Cruz Applied Mathematics amp Statistics
+5.0
+UC Santa Cruz Computer Science & Engineering
+3.1000000000000005
+UC Santa Cruz TA
+3.3
+UC Santa Cruz German
+4.6
+UC Santa Cruz Russian
+3.4
+UC Santa Cruz Art amp Visual Culture
+3.0
+UC Santa Cruz Chinese
+4.0
+UC San Diego Mathematics
+3.4643571182350916
+UC San Diego Physics
+3.2604134366925073
+UC San Diego Music
+4.13242718446602
+UC San Diego Engineering
+3.2168312387791747
+UC San Diego Political Science
+3.8463031423290204
+UC San Diego Theater
+4.054934210526316
+UC San Diego Psychology
+4.077337437475951
+UC San Diego Linguistics
+4.056
+UC San Diego Theatre & Dance
+3.5
+UC San Diego Visual Arts
+3.5967567567567564
+UC San Diego Philosophy
+3.821259842519685
+UC San Diego Biology
+3.722590199246096
+UC San Diego Medicine
+4.025
+UC San Diego Communication
+3.4415267175572515
+UC San Diego Chemistry
+3.5881850385496987
+UC San Diego Digital Arts
+2.8
+UC San Diego Anthropology
+3.642890442890444
+UC San Diego Economics
+3.4675491679273835
+UC San Diego Languages
+4.1514598540145995
+UC San Diego Graphic Arts
+3.909803921568627
+UC San Diego Education
+4.129
+UC San Diego Computer Science
+3.490036068530206
+UC San Diego History
+3.855555555555556
+UC San Diego Writing
+3.856151832460733
+UC San Diego Accounting
+3.8758620689655174
+UC San Diego Public Health
+4.026153846153846
+UC San Diego Human Development
+3.852631578947368
+UC San Diego Literature
+3.976756287944493
+UC San Diego Science
+3.4597039473684217
+UC San Diego Film
+3.3671875
+UC San Diego Humanities
+4.017737430167598
+UC San Diego Management
+3.286378737541528
+UC San Diego Cultural Studies
+2.7027027027027026
+UC San Diego Biological Sciences
+3.8607876712328766
+UC San Diego Oceanography
+3.5277777777777777
+UC San Diego Cognitive Science
+3.7050056882821383
+UC San Diego Business
+3.7425675675675674
+UC San Diego Sociology
+3.962279888785912
+UC San Diego Geology
+4.314285714285714
+UC San Diego Urban Studies
+4.092063492063493
+UC San Diego English
+3.5244094488188984
+UC San Diego International Studies
+3.5828571428571427
+UC San Diego Fine Arts
+3.3679558011049724
+UC San Diego Urban Planning
+4.502083333333333
+UC San Diego Finance
+1.918181818181818
+UC San Diego Geography
+1.0
+UC San Diego Not Specified
+3.7960000000000003
+UC San Diego Chemical Engineering
+2.184615384615385
+UC San Diego Cognitive Science & Computer Engineering
+1.4736842105263157
+UC San Diego Art History
+3.7373333333333334
+UC San Diego Art
+2.5925925925925926
+UC San Diego Social Science
+3.0403225806451615
+UC San Diego Marketing
+4.894594594594595
+UC San Diego Electrical Engineering & Computer Science
+1.4375
+UC San Diego Ethnic Studies
+3.7685863874345555
+UC San Diego Environment
+4.595238095238095
+UC San Diego Gender Studies
+2.9285714285714284
+UC San Diego Law
+4.0166666666666675
+UC San Diego Health Science
+4.25
+UC San Diego Architecture
+3.4
+UC San Diego Nursing
+3.0
+UC San Diego Data Science
+5.0
+UC San Diego Culinary Arts
+4.7
+UC San Diego Religion
+3.831623931623932
+UC San Diego Geophysics
+4.6
+UC San Diego American Sign Language
+5.0
+UC San Diego Mechanical Engineering
+2.8
+UC San Diego Classics
+5.0
+UC San Diego Dance
+4.6
